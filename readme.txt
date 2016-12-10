@@ -30,3 +30,7 @@ git init
 <5> git reset  --hard ---版本号
 <6> git reflog  ----查看修改内容的版本号
 <7> git reset  --hard 6fcfc89 ---回退到指定的版本号
+
+
+6.Git撤销修改和删除文件操作。
+<1> git checkout  -- readme.txt(文件名)  ---，把readme.txt文件在工作区做的修改全部撤销
