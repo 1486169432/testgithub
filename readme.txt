@@ -34,3 +34,7 @@ git init
 
 6.Git撤销修改和删除文件操作。
 <1> git checkout  -- readme.txt(文件名)  ---，把readme.txt文件在工作区做的修改全部撤销
+<2> rm  b.txt --- 删除文件(在提交一次就可以完全从暂存区中移除)
+
+
+7.远程仓库
